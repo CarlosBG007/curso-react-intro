@@ -28,6 +28,13 @@
   color: #97ca3f;
 }
 
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
